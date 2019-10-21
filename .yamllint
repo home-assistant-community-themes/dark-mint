@@ -1,7 +1,7 @@
 ---
 
 yaml-files:
-  - "themes/another-dark.yaml"
+  - "themes/dark_mint.yaml"
 
 rules:
   braces:
