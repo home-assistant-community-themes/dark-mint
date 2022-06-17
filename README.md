@@ -1,7 +1,7 @@
 # Dark Mint Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/dark-mint.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/dark-mint)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Dark Mint Theme by lambtho
 
